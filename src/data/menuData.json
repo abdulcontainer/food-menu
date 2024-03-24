@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Cold Apetizers",
+    "items": [
+      {
+        "id": 1,
+        "img": "/assets/FoodItems/Hummus.jpg",
+        "name": "Hummus plate",
+        "price": "AED 40",
+        "rating": 4.9,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 2,
+        "img": "/assets/FoodItems/Mutabal.jpg",
+        "name": "Muttabal plate",
+        "price": "AED 20",
+        "rating": 4.2,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 3,
+        "img": "/assets/FoodItems/GrilledHalloumiCheese.jpg",
+        "name": "Grilled Haloumi Chese",
+        "price": "AED 50",
+        "rating": 4.5,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "categoryName": "Hot Apetizers",
+    "items": [
+      {
+        "id": 1,
+        "img": "/assets/FoodItems/FrideKebab.webp",
+        "name": "Fried Kebbah Plate",
+        "price": "AED 40",
+        "rating": 4.7,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 2,
+        "img": "/assets/FoodItems/ChickenLiver.jpeg",
+        "name": "Chicken liver",
+        "price": "AED 40",
+        "rating": 4.1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "categoryName": "Soup",
+    "items": [
+      {
+        "id": 1,
+        "img": "/assets/FoodItems/LentilSoup.jpg",
+        "name": "Lentil Soup",
+        "price": "AED 25",
+        "rating": 4.7,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 2,
+        "img": "/assets/FoodItems/VegetableSoup.jpg",
+        "name": "Vegitables Soup",
+        "price": "AED 40",
+        "rating": 4.1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 3,
+        "img": "/assets/FoodItems/ChickenSoup.jpg",
+        "name": "Chicken Soup",
+        "price": "AED 20",
+        "rating": 4.3,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "categoryName": "Sandwiches",
+    "items": [
+      {
+        "id": 1,
+        "img": "/assets/FoodItems/KababMeatSandwich.jpg",
+        "name": "Kabab Meat Sandwich",
+        "price": "AED 19",
+        "rating": 4.2,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 2,
+        "img": "/assets/FoodItems/MeatTikkaSandwich.webp",
+        "name": "Meat Tikka Sandwich",
+        "price": "AED 24",
+        "rating": 4.1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 3,
+        "img": "/assets/FoodItems/FalafelSandwich.jpg",
+        "name": "Falafel Sandwich",
+        "price": "AED 15",
+        "rating": 4.8,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 4,
+        "img": "/assets/FoodItems/ChickenSandwich.jpg",
+        "name": "Chicken Sandwich",
+        "price": "AED 15",
+        "rating": 4.4,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "categoryName": "Shawarma",
+    "items": [
+      {
+        "id": 1,
+        "img": "/assets/FoodItems/ChickenShawarma.jpg",
+        "name": "Chicken Shawarma",
+        "price": "AED 15",
+        "rating": 4.7,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 2,
+        "img": "/assets/FoodItems/ChickenShawarmaPlate.jpeg",
+        "name": "Chicken Shawarma Plate",
+        "price": "AED 22",
+        "rating": 4.1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "categoryName": "Grilled",
+    "items": [
+      {
+        "id": 1,
+        "img": "/assets/FoodItems/GrilledCheese.jpg",
+        "name": "Grilled Cheese",
+        "price": "AED 20",
+        "rating": 4.7,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 2,
+        "img": "/assets/FoodItems/GrilledChicken.jpg",
+        "name": "Grilled Chicken",
+        "price": "AED 28",
+        "rating": 4.4,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 3,
+        "img": "/assets/FoodItems/GrilledMeat.jpg",
+        "name": "Grilled Meat",
+        "price": "AED 32",
+        "rating": 4.4,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "categoryName": "Seafood",
+    "items": [
+      {
+        "id": 1,
+        "img": "/assets/FoodItems/SeafoodCream.jpg",
+        "name": "Seafood Cream",
+        "price": "AED 15",
+        "rating": 4.1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 2,
+        "img": "/assets/FoodItems/SeafoodPlatter.jpg",
+        "name": "Seafood Platter",
+        "price": "AED 45",
+        "rating": 4.8,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "categoryName": "Pizza",
+    "items": [
+      {
+        "id": 1,
+        "img": "/assets/FoodItems/ChickenAlfredoPizza.jpeg",
+        "name": "Chicken Alfredo Pizza",
+        "price": "AED 33",
+        "rating": 4.7,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 2,
+        "img": "/assets/FoodItems/GreekPizza.jpg",
+        "name": "Greek Pizza",
+        "price": "AED 24",
+        "rating": 4.4,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "categoryName": "Oven Baked Manakish",
+    "items": [
+      {
+        "id": 1,
+        "img": "/assets/FoodItems/ManakishBread.jpeg",
+        "name": "Manakish Bread",
+        "price": "AED 12",
+        "rating": 4.3,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      },
+      {
+        "id": 2,
+        "img": "/assets/FoodItems/CheeseManakish.webp",
+        "name": "Cheese Manakish",
+        "price": "AED 18",
+        "rating": 4.8,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do..."
+      }
+    ]
+  }
+]
